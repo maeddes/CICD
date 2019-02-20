@@ -45,8 +45,7 @@ node {
 			}
 		}
 	}
-	
-	
+		
 	
 	
 	//Stage 4: Build with mvn
